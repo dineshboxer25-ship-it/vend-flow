@@ -1,0 +1,9 @@
+button {
+  border: none;
+  cursor: pointer;
+  color: black;
+}
+
+button:hover {
+  opacity: 0.9;
+}
